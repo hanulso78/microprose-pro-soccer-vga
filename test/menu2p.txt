@@ -1,0 +1,6 @@
+# 조이스틱 0 -> TWO PLAYER FRIENDLY
+400 +enter
+460 +down
+490 +down
+520 +down
+550 +enter

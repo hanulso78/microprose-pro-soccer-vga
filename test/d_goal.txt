@@ -1,0 +1,10 @@
+# 조이스틱 0 -> 메뉴에서 DEMO GAME
+400 +enter
+460 +down
+490 +down
+520 +down
+550 +down
+580 +enter
+3300 shot g1
+3600 shot g2
+3800 quit

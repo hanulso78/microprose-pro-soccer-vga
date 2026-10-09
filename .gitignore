@@ -1,0 +1,46 @@
+# 빌드 결과 (build.bat / build_host.sh 로 다시 만든다)
+*.o
+*.vo
+/soccer.exe
+/socvga.exe
+/hosttest.exe
+/hostvga.exe
+/hostprof.exe
+/obj_host/
+/obj_prof/
+/gmon.out
+
+# 도구가 만드는 것 (sh regen.sh, python tools/mkvga.py, python tools/mksound.py)
+/soc_in.c
+/soc_out.c
+/socimg_in.c
+/socimg_out.c
+/IN_UNP.EXE
+/OUT_UNP.EXE
+/SOCVGA.DAT
+/SOUND.DAT
+/unpacked/
+/vgm/
+/wav/
+/orig/
+
+# 시험 / 미리보기 부산물
+/_*
+/*.png
+*.BMP
+/SOCLOG.TXT
+/SOCOUT.TXT
+/SOCTEST.TXT
+/V.IND
+tools/_*
+tools/__pycache__/
+tools/*.wav
+tools/*.exe
+
+# 배포 묶음 (release/ 자체는 받아서 바로 돌릴 수 있게 저장소에 둔다)
+/release/soccer.rar
+
+# DOSBox 부산물
+/stdout.txt
+/stderr.txt
+/vram_*.bin

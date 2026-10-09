@@ -1,0 +1,7 @@
+400 +enter
+460 +down
+490 +down
+520 +down
+550 +down
+580 +enter
+700 quit

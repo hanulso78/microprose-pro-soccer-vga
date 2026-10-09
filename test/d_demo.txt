@@ -1,0 +1,11 @@
+400 +enter
+460 +down
+490 +down
+520 +down
+550 +down
+580 +enter
+300 shot s1
+700 shot s2
+1500 shot s3
+2900 shot s4
+3000 quit

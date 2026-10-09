@@ -1,0 +1,7 @@
+# 조이스틱 0 -> SIX-A-SIDE CHALLENGE -> 팀 고르기 (Enter 여러 번)
+400 +enter
+470 +enter
+560 +enter
+650 +enter
+740 +enter
+830 +enter

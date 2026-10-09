@@ -1,0 +1,5 @@
+400 +enter
+470 +enter
+700 +esc
+760 +y
+800 +enter

@@ -1,0 +1,4 @@
+400 +enter
+470 +enter
+640 shot a
+660 quit

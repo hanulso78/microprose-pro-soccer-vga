@@ -1,0 +1,8 @@
+# 조이스틱 0 -> CONTROL PANEL
+400 +enter
+460 +down
+490 +down
+520 +down
+550 +down
+580 +down
+610 +enter

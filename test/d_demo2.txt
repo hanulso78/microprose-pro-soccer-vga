@@ -1,0 +1,13 @@
+400 +enter
+460 +down
+490 +down
+520 +down
+550 +down
+580 +enter
+1600 shot a1
+1800 shot a2
+2000 shot a3
+2200 shot a4
+2500 shot a5
+2800 shot a6
+3000 quit

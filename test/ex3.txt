@@ -1,0 +1,6 @@
+300 +esc
+400 +enter
+470 +enter
+1000 +esc
+1060 +n
+1100 +esc

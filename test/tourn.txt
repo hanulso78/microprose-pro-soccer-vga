@@ -1,0 +1,11 @@
+400 +enter
+460 +down
+500 +enter
+560 +up
+590 +up
+620 +up
+650 +enter
+760 +enter
+860 +enter
+960 +enter
+1060 +enter
